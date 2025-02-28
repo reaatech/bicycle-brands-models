@@ -1,0 +1,559 @@
+{
+  "brand": "Cipollini",
+  "models": [
+    {
+      "model": "MCM Allroad Disc Frameset",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 171,
+          "rider_height_max": 182,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "BOND EVO O30DP SRAM RIVAL E-TAP AXS",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": "S",
+          "rider_height_min": 163,
+          "rider_height_max": 174,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "L",
+          "rider_height_min": 179,
+          "rider_height_max": 189,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Dolomia",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": "S",
+          "rider_height_min": 158,
+          "rider_height_max": 173,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "RB1K THE ONE P30CL SHIMANO DURA-ACE DI2",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": "S",
+          "rider_height_min": 158,
+          "rider_height_max": 173,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "RB1k Shimano Durace",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 173,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "BOND EVO P30ZQ SHIMANO DURA-ACE DI2",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 173,
+          "rider_height_max": 183,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "MCM Disc Frameset",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 177,
+          "rider_height_max": 186,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "AGO SRAM RIVAL XPLR ETAPE AXS",
+      "type": "Gravel",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 179,
+          "rider_height_max": 189,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "RB 1000",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 147,
+          "rider_height_max": 163,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Course RB1000",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 158,
+          "rider_height_max": 168,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "RIM Brake frameset",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 163,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Bond",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 163,
+          "rider_height_max": 173,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "S",
+          "rider_height_min": 158,
+          "rider_height_max": 173,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "M",
+          "rider_height_min": 163,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "RB1K The One Corsa Pro Bike",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 177,
+          "rider_height_max": 185,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "XL",
+          "rider_height_min": 188,
+          "rider_height_max": 197,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "RB1K",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 163,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": null,
+          "rider_height_min": 163,
+          "rider_height_max": 173,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "MCM All Road Daytona Pro+ Bike",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 168,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "NKTT Shimano Uktegra Di2",
+      "type": "Triathlon",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 163,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Bond Evo",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 178,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "M",
+          "rider_height_min": 163,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "NK1K Frameset",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 183,
+          "rider_height_max": 193,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Ad.One",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": "S",
+          "rider_height_min": 158,
+          "rider_height_max": 173,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "MCM O30DP RIVAL E-TAP AXS",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 177,
+          "rider_height_max": 185,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Bond Frameset",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": "S",
+          "rider_height_min": 158,
+          "rider_height_max": 173,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Bond2 Kaizen Team Bike",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 171,
+          "rider_height_max": 182,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "NK1K Disc Daytona Pro 1+ Bike",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 173,
+          "rider_height_max": 183,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Ad.ONE kit telaio",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 163,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "mcm all road",
+      "type": "Gravel",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 163,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Bond Disc Kaizen Team Bike",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 179,
+          "rider_height_max": 189,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "DOLOMIA SHIMANO ULTEGRA DI2",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": "S",
+          "rider_height_min": 158,
+          "rider_height_max": 173,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Dolomia Disc Frameset 2022",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 173,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "RB1K RB1000",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 173,
+          "rider_height_max": 183,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Bond Evo Campagnolo Chorus EPS",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 173,
+          "rider_height_max": 183,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "RB1K THE ONE Shimano Ultegra Di2",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": "S",
+          "rider_height_min": 171,
+          "rider_height_max": 179,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Bond2 Daytona Pro Bike",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": "S",
+          "rider_height_min": 163,
+          "rider_height_max": 174,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "World Champion painting",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 173,
+          "rider_height_max": 183,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "ITACA ultegra di2",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 173,
+          "rider_height_max": 183,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Bond Disc Corsa Pro Bike",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 171,
+          "rider_height_max": 182,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "BOND EVO Q30MP SHIMANO ULTEGRA DI2",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 171,
+          "rider_height_max": 182,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "NKTT Shimano Dura-Ace Di2",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": "S",
+          "rider_height_min": 158,
+          "rider_height_max": 171,
+          "measurement_unit": "cm"
+        }
+      ]
+    }
+  ]
+}

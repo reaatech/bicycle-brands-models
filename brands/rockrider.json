@@ -1,0 +1,1271 @@
+{
+  "brand": "ROCKRIDER",
+  "models": [
+    {
+      "model": "27.5 Inch Mountain bike ST 120 Disc",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 168,
+          "rider_height_max": 180,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "L",
+          "rider_height_min": 178,
+          "rider_height_max": 189,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "500 XC Mountain Bike 27.5\" Plus 12-Speed",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": "S",
+          "rider_height_min": 158,
+          "rider_height_max": 173,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "M",
+          "rider_height_min": 163,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "XC Mountain Bike RACE 900S GX Eagle, Mavic Crossmax wheels",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 173,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "27.5\" ST 520 MTB",
+      "type": "Downhill",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 163,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "27.5 Inch Mountain bike ST 540",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 173,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "27.5\" Full Suspension Mountain Bike ST 530 S",
+      "type": "Trail",
+      "ebike": false,
+      "suspension": "full",
+      "sizes": [
+        {
+          "size": "XL",
+          "rider_height_min": 178,
+          "rider_height_max": 198,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "S",
+          "rider_height_min": 158,
+          "rider_height_max": 173,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "29 inch Cross Country Mountain Bike xc 50",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": "XL",
+          "rider_height_min": 186,
+          "rider_height_max": 199,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "M",
+          "rider_height_min": 168,
+          "rider_height_max": 180,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "29\" Full Suspension Carbon Mountain Bike XC 900 S",
+      "type": "Trail",
+      "ebike": false,
+      "suspension": "full",
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 178,
+          "rider_height_max": 189,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "S",
+          "rider_height_min": 158,
+          "rider_height_max": 171,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Race 900 Team edition",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 173,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Rockrider",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 173,
+          "rider_height_max": 183,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Mountain Bike Race 900 GX Eagle AXS Groupset Reynolds TR 289/309 Carbon Wheels",
+      "type": "Trail",
+      "ebike": false,
+      "suspension": "full",
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 178,
+          "rider_height_max": 189,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "ST520",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 163,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "MOUNTAIN BIKE AM 100 HARDTAIL",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": "S",
+          "rider_height_min": 158,
+          "rider_height_max": 171,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "MOUNTAIN BIKE FULL SUSPENSION AM 100 SRAM NX",
+      "type": "Enduro",
+      "ebike": false,
+      "suspension": "full",
+      "sizes": [
+        {
+          "size": "S",
+          "rider_height_min": 158,
+          "rider_height_max": 171,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "27.5 inch Mountain Bike ST 530 MDB",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 173,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "rockrider del año del 2021 como nueva perfecto estado i perfecto para tu peque",
+      "type": "Other",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 194,
+          "rider_height_max": null,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "29\" Full Suspension Carbon Mountain Bike XC 500 S",
+      "type": "Trail",
+      "ebike": false,
+      "suspension": "full",
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 168,
+          "rider_height_max": 180,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "29 Inch MOUNTAIN BIKE XC 120 SRAM NX",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 175,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "27.5\" Mountain Bike ST 520 V2 - /",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": "S",
+          "rider_height_min": 158,
+          "rider_height_max": 173,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "XL",
+          "rider_height_min": 178,
+          "rider_height_max": 198,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "AM 100 HT",
+      "type": "Other",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 163,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "rockrider xc900s",
+      "type": "Other",
+      "ebike": false,
+      "suspension": "full",
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 163,
+          "rider_height_max": 173,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Mountain Bike with GX Eagle Groupset & Aluminium Mavic Crossmax Wheels Race 900",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 178,
+          "rider_height_max": 189,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "M",
+          "rider_height_min": 163,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Race 900",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 163,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "29\" Carbon Mountain Bike XC 900",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 165,
+          "rider_height_max": 177,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "L",
+          "rider_height_min": 175,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "AM 100 S 12v 29\"",
+      "type": "Other",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 173,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "500s",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "full",
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 173,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Mountain Bike Race 900S GX Eagle Groupset and Mavic Crossmax Aluminium Wheels",
+      "type": "Trail",
+      "ebike": false,
+      "suspension": "full",
+      "sizes": [
+        {
+          "size": "XL",
+          "rider_height_min": 186,
+          "rider_height_max": 199,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "ST 530 S",
+      "type": "Trail",
+      "ebike": false,
+      "suspension": "full",
+      "sizes": [
+        {
+          "size": "XL",
+          "rider_height_min": 178,
+          "rider_height_max": 198,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "All-Mountain Bike AM Fifty_S",
+      "type": "Trail",
+      "ebike": false,
+      "suspension": "full",
+      "sizes": [
+        {
+          "size": "S",
+          "rider_height_min": 158,
+          "rider_height_max": 171,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "XL",
+          "rider_height_min": 186,
+          "rider_height_max": 199,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "AM 100 S Full Suspension Mountain Bike, NX Eagle - 29\"",
+      "type": "Trail",
+      "ebike": false,
+      "suspension": "full",
+      "sizes": [
+        {
+          "size": "XXL",
+          "rider_height_min": 188,
+          "rider_height_max": 198,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "L",
+          "rider_height_min": 173,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "M",
+          "rider_height_min": 163,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "27.5\" Touring Mountain Bike ST 120",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 173,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "XXXL",
+          "rider_height_min": 198,
+          "rider_height_max": null,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "29\" Semi-Rigid Mountain Bike",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 168,
+          "rider_height_max": 180,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "ST 700",
+      "type": "Other",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": "S",
+          "rider_height_min": 158,
+          "rider_height_max": 173,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "RacingBoy 500",
+      "type": "Other",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": "S",
+          "rider_height_min": 158,
+          "rider_height_max": 173,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "27.5 in Mountain bike ST100 L - 175-184cm Refurb Grade C",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": "S",
+          "rider_height_min": 158,
+          "rider_height_max": 173,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "L",
+          "rider_height_min": 173,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "ST 120 Mountain Bike, / - 27.5”",
+      "type": "Trail",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 163,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Rockrider 5.1",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 147,
+          "rider_height_max": 163,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Women's 27.5\" Mountain Bike ST 540",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": "S",
+          "rider_height_min": 158,
+          "rider_height_max": 170,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "XC 100 S",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 163,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "27.5\" Full Suspension Mountain Bike ST 900 S - /",
+      "type": "Trail",
+      "ebike": false,
+      "suspension": "full",
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 173,
+          "rider_height_max": 183,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "S",
+          "rider_height_min": 158,
+          "rider_height_max": 173,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "RACE 740",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 173,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "S",
+          "rider_height_min": 158,
+          "rider_height_max": 173,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Rockrider st 120",
+      "type": "Other",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 173,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "27.5\" Mountain Bike ST 530",
+      "type": "Trail",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": "XL",
+          "rider_height_min": 178,
+          "rider_height_max": 198,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "L",
+          "rider_height_min": 178,
+          "rider_height_max": 189,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "27.5\" Mountain Bike ST 540",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 173,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "M",
+          "rider_height_min": 163,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "bici Mtb ST 50 nera 28- M",
+      "type": "Other",
+      "ebike": false,
+      "suspension": "full",
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 163,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "AM 100 HT Mountain Bike - 27.5+",
+      "type": "Trail",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 173,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Mountain Bike Race 740 NX/GX Eagle",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 168,
+          "rider_height_max": 180,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "MTB 27.5\" ST120 Nero-Azzuro",
+      "type": "Other",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 163,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "XC 500",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 163,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "L",
+          "rider_height_min": 173,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "E St 100",
+      "type": "Other",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 147,
+          "rider_height_max": 163,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "xc 900",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 163,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "27.5\" MTB ST 530 S",
+      "type": "Trail",
+      "ebike": false,
+      "suspension": "full",
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 163,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "MOUNTAIN BIKE FULL SUSPENSION AM 50 SRAM SX",
+      "type": "Trail",
+      "ebike": false,
+      "suspension": "full",
+      "sizes": [
+        {
+          "size": "S",
+          "rider_height_min": 158,
+          "rider_height_max": 171,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "M",
+          "rider_height_min": 168,
+          "rider_height_max": 180,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "29\" Touring Mountain Bike Explore 520",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 163,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "L",
+          "rider_height_min": 173,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "27.5 Inch Mountain bike ST 900",
+      "type": "Trail",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 178,
+          "rider_height_max": 189,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "XC 900 Carbon Hardtail Mountain Bike, GX Eagle - 29\"",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "full",
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 173,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Women's 27.5\" Mountain Bike ST 120",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 147,
+          "rider_height_max": 163,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Xc900S",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "full",
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 163,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "L",
+          "rider_height_min": 173,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "29\" All Mountain Mountain Bike AM 100 S",
+      "type": "Trail",
+      "ebike": false,
+      "suspension": "full",
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 173,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "27.5-inch, 9-speed single-chainring mountain bike",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": "S",
+          "rider_height_min": 158,
+          "rider_height_max": 171,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "RACE 900S",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "full",
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 178,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Cross Country Mountain Bike RACE 900S GX Eagle, carbon Reynolds wheels, carbon frame",
+      "type": "Trail",
+      "ebike": false,
+      "suspension": "full",
+      "sizes": [
+        {
+          "size": "S",
+          "rider_height_min": 158,
+          "rider_height_max": 171,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "29\" Touring Mountain Bike Explore 500",
+      "type": "Trail",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 178,
+          "rider_height_max": 189,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "AM 100 S Full Suspension Mountain Bike - 29\"",
+      "type": "Trail",
+      "ebike": false,
+      "suspension": "full",
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 163,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "29\" Explore 520",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": "XL",
+          "rider_height_min": 178,
+          "rider_height_max": 198,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "AM Hardtail Trail Mountain Bike",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 178,
+          "rider_height_max": 189,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Rockrider Explore 520 Taglia M",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 163,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "st 540",
+      "type": "Trail",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 163,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "520s",
+      "type": "Enduro",
+      "ebike": false,
+      "suspension": "full",
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 163,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Women's 27.5\" Mountain Bike ST 530 RR",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 168,
+          "rider_height_max": 179,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Rockrider e-st 500 hardtail 27.5 inch",
+      "type": "Trail",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 163,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "27.5\" Full Suspension Mountain Bike ST 540 S",
+      "type": "Trail",
+      "ebike": false,
+      "suspension": "full",
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 175,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "M",
+          "rider_height_min": 163,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Mountain Bike ST 540 V2 27.5\"",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 173,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Rockrider 340",
+      "type": "Trail",
+      "ebike": false,
+      "suspension": "full",
+      "sizes": [
+        {
+          "size": "S",
+          "rider_height_min": 158,
+          "rider_height_max": 173,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "ROCKRIDER 5.0.S",
+      "type": "Other",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": "S",
+          "rider_height_min": 158,
+          "rider_height_max": 173,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "27.5\" U-FIT Mountain Bike ST100",
+      "type": "Trail",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": "XS",
+          "rider_height_min": 156,
+          "rider_height_max": 166,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "ST 120",
+      "type": "Other",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 173,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Race 900 S FC",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "full",
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 168,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Rockrider s XC100",
+      "type": "Enduro",
+      "ebike": false,
+      "suspension": "full",
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 173,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "29\" 12-Speed XC Mountain Bike 100 - /",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 173,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "XC 50 LTD",
+      "type": "Trail",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 173,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        }
+      ]
+    }
+  ]
+}

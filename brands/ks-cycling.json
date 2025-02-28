@@ -1,0 +1,33 @@
+{
+  "brand": "KS Cycling",
+  "models": [
+    {
+      "model": "MBT",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "full",
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 173,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Euphoria",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 168,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    }
+  ]
+}

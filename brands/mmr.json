@@ -1,0 +1,1031 @@
+{
+  "brand": "MMR",
+  "models": [
+    {
+      "model": "Adrenaline SL 00 Plus",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 171,
+          "rider_height_max": 182,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "KUMA 00",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 168,
+          "rider_height_max": 180,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "LTD Sand",
+      "type": "Gravel",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 173,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "ADRENALINE 30",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 171,
+          "rider_height_max": 182,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "GRIP 10",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 171,
+          "rider_height_max": 182,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Miracle",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 173,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": null,
+          "rider_height_min": 173,
+          "rider_height_max": 183,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "M",
+          "rider_height_min": 163,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "ADRENALINE AERO 10",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": "S",
+          "rider_height_min": 163,
+          "rider_height_max": 174,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "M",
+          "rider_height_min": 163,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "L",
+          "rider_height_min": 179,
+          "rider_height_max": 189,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "RAKISH 00",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 168,
+          "rider_height_max": 180,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "WOKI 30",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 178,
+          "rider_height_max": 189,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "XL",
+          "rider_height_min": 186,
+          "rider_height_max": 199,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "KENTA 10",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "full",
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 176,
+          "rider_height_max": 187,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "ADRENALINE AERO 00",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": "S",
+          "rider_height_min": 163,
+          "rider_height_max": 174,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "M",
+          "rider_height_min": 171,
+          "rider_height_max": 182,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "GRIP 00",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": "S",
+          "rider_height_min": 163,
+          "rider_height_max": 174,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "M",
+          "rider_height_min": 168,
+          "rider_height_max": 180,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "ADRENALINE 00",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 179,
+          "rider_height_max": 189,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "M",
+          "rider_height_min": 171,
+          "rider_height_max": 182,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "X TOUR",
+      "type": "Gravel",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": "S",
+          "rider_height_min": 158,
+          "rider_height_max": 173,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "KENTA 70",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "full",
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 176,
+          "rider_height_max": 187,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "S",
+          "rider_height_min": 158,
+          "rider_height_max": 170,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "ADRENALINE 10",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": "S",
+          "rider_height_min": 163,
+          "rider_height_max": 174,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "M",
+          "rider_height_min": 171,
+          "rider_height_max": 182,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "ADRENALINE SL 10",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 171,
+          "rider_height_max": 182,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "S",
+          "rider_height_min": 163,
+          "rider_height_max": 174,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": null,
+          "rider_height_min": 158,
+          "rider_height_max": 168,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "ADRENALINE SL 00",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 179,
+          "rider_height_max": 189,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Koans",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "full",
+      "sizes": [
+        {
+          "size": "S",
+          "rider_height_min": 158,
+          "rider_height_max": 173,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Kendo",
+      "type": "Other",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 147,
+          "rider_height_max": 163,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "M",
+          "rider_height_min": 163,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Kenta SXC 00",
+      "type": "Trail",
+      "ebike": false,
+      "suspension": "full",
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 168,
+          "rider_height_max": 179,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "SL",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 173,
+          "rider_height_max": 183,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "M",
+          "rider_height_min": 163,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "PSG 6061 T6",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": "XL",
+          "rider_height_min": 178,
+          "rider_height_max": 198,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Team replica",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 163,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "ATTACK 00",
+      "type": "Gravel",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 163,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "X-GRIP 00",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 168,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "M",
+          "rider_height_min": 168,
+          "rider_height_max": 180,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "29 10",
+      "type": "Trail",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 163,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "GRAND TOUR 30",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 173,
+          "rider_height_max": 183,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "KUMA 10",
+      "type": "Other",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": "S",
+          "rider_height_min": 158,
+          "rider_height_max": 173,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Kenta 27,5",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "full",
+      "sizes": [
+        {
+          "size": "S",
+          "rider_height_min": 158,
+          "rider_height_max": 173,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "RAKISH 10",
+      "type": "Other",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 173,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "M",
+          "rider_height_min": 168,
+          "rider_height_max": 180,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "KENTA 50",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "full",
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 168,
+          "rider_height_max": 179,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "MMR Adrenaline SL",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": "XL",
+          "rider_height_min": 178,
+          "rider_height_max": 198,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "KENTA 30",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "full",
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 168,
+          "rider_height_max": 179,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "L",
+          "rider_height_min": 176,
+          "rider_height_max": 187,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "ADRENALINE SL 30",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 179,
+          "rider_height_max": 189,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "M",
+          "rider_height_min": 171,
+          "rider_height_max": 182,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "ADRENALINE SL 50",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 163,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "X-TOUR 10",
+      "type": "Gravel",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": "S",
+          "rider_height_min": 158,
+          "rider_height_max": 171,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "M",
+          "rider_height_min": 168,
+          "rider_height_max": 180,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "L",
+          "rider_height_min": 178,
+          "rider_height_max": 189,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "KENTA SL 00",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "full",
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 176,
+          "rider_height_max": 187,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "M",
+          "rider_height_min": 168,
+          "rider_height_max": 179,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "X-TOUR 00",
+      "type": "Gravel",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": "XL",
+          "rider_height_min": 186,
+          "rider_height_max": 199,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "L",
+          "rider_height_min": 179,
+          "rider_height_max": 189,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "kendo 10",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 163,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "RAKISH LTD",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 147,
+          "rider_height_max": 163,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Attack",
+      "type": "Gravel",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 163,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "L",
+          "rider_height_min": 173,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "XTOUR LTD",
+      "type": "Gravel",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 163,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Rakish sl 30",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 163,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Kendo 30",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 173,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "KENTA SL 10",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "full",
+      "sizes": [
+        {
+          "size": "S",
+          "rider_height_min": 158,
+          "rider_height_max": 173,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "KENTA LTD",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "full",
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 176,
+          "rider_height_max": 187,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "ADRENALINE 00 PLUS",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 171,
+          "rider_height_max": 182,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Carbon Concept",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": "S",
+          "rider_height_min": 158,
+          "rider_height_max": 173,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "ADRENALINE AERO 30",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 179,
+          "rider_height_max": 189,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Sprint",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 163,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Rakish SL 2019",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 163,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "SL 1.5",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 168,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "GRAND TOUR 00",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 173,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "S",
+          "rider_height_min": 158,
+          "rider_height_max": 173,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "RAKISH SL 10",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 173,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Ultegra",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 168,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "RAKISH SL 00",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 168,
+          "rider_height_max": 180,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Kenta Custom",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "full",
+      "sizes": [
+        {
+          "size": "S",
+          "rider_height_min": 158,
+          "rider_height_max": 173,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "X-TOUR LTD",
+      "type": "Gravel",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": "XL",
+          "rider_height_min": 178,
+          "rider_height_max": 198,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "RAKISH KASHIMA",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": "XL",
+          "rider_height_min": 178,
+          "rider_height_max": 198,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Zen 00 2019",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": "XL",
+          "rider_height_min": 178,
+          "rider_height_max": 198,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "RAKISH 50",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 163,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "WOKI 10",
+      "type": "Enduro",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 178,
+          "rider_height_max": 189,
+          "measurement_unit": "cm"
+        }
+      ]
+    }
+  ]
+}

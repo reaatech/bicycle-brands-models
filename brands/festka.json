@@ -1,0 +1,33 @@
+{
+  "brand": "Festka",
+  "models": [
+    {
+      "model": "SPECTRE 2.0",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 173,
+          "rider_height_max": 183,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Spectre Disc ICR",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 158,
+          "rider_height_max": 168,
+          "measurement_unit": "cm"
+        }
+      ]
+    }
+  ]
+}

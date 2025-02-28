@@ -1,0 +1,61 @@
+{
+  "brand": "Knolly",
+  "models": [
+    {
+      "model": "Warden 27.5",
+      "type": "Enduro",
+      "ebike": false,
+      "suspension": "full",
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 173,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Cache Titanium",
+      "type": "Gravel",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 168,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Warden 168 GX",
+      "type": "Enduro",
+      "ebike": false,
+      "suspension": "full",
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 173,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "XX1 Drivetrain/Factory Suspension",
+      "type": "Enduro",
+      "ebike": false,
+      "suspension": "full",
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 163,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    }
+  ]
+}

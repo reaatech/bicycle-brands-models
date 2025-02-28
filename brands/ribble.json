@@ -1,0 +1,173 @@
+{
+  "brand": "Ribble",
+  "models": [
+    {
+      "model": "ReacTT",
+      "type": "Triathlon",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 173,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Custom",
+      "type": "Gravel",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 163,
+          "rider_height_max": 173,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Ultra SL - Pro, Shimano Ultegra Di2",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 177,
+          "rider_height_max": 186,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Aero Ultra SLR",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 173,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Ribble CX SL",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 178,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Endurance SL Disc - Shimano Ultegra Di2",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 169,
+          "rider_height_max": 179,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Aero 883, Shimano 105",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": "XL",
+          "rider_height_min": 178,
+          "rider_height_max": 198,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "CGR SL Collective colourway",
+      "type": "Gravel",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": "S",
+          "rider_height_min": 158,
+          "rider_height_max": 173,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "R872 - Shimano Tiagra",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 177,
+          "rider_height_max": 186,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Endurance SL - Enthusiast, Shimano Ultegra",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": "XL",
+          "rider_height_min": 184,
+          "rider_height_max": 191,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Endurance SL Disc - Pro, Shimano Ultegra Di2",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": "S",
+          "rider_height_min": 164,
+          "rider_height_max": 171,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "R872 - Pro - Shimano Ultegra",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 173,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        }
+      ]
+    }
+  ]
+}

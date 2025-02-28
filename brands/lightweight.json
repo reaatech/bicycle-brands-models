@@ -1,0 +1,89 @@
+{
+  "brand": "Lightweight",
+  "models": [
+    {
+      "model": "Berg Atlas",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 163,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Urgestalt",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 178,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Urgestalt Disc Frameset",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 147,
+          "rider_height_max": 163,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "pegoretti responsorium",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 178,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Moozes Mistral",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 168,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Disc",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 173,
+          "rider_height_max": 183,
+          "measurement_unit": "cm"
+        }
+      ]
+    }
+  ]
+}

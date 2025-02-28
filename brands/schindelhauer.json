@@ -1,0 +1,103 @@
+{
+  "brand": "Schindelhauer",
+  "models": [
+    {
+      "model": "Siegfried",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 173,
+          "rider_height_max": 183,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Ludwig VIII",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 163,
+          "rider_height_max": 173,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Friedrich XI",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 168,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Hektor",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 169,
+          "rider_height_max": 181,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Ludwig XIV",
+      "type": "Gravel",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 178,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Ludwig",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 188,
+          "rider_height_max": 198,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Lotte",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 163,
+          "rider_height_max": 173,
+          "measurement_unit": "cm"
+        }
+      ]
+    }
+  ]
+}

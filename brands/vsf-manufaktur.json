@@ -1,0 +1,19 @@
+{
+  "brand": "VSF Manufaktur",
+  "models": [
+    {
+      "model": "T-50",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 168,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    }
+  ]
+}

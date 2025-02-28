@@ -1,0 +1,201 @@
+{
+  "brand": "R RAYMON",
+  "models": [
+    {
+      "model": "HardRay 6.5",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 163,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "TourRay E 6.0",
+      "type": "Trail",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 163,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "FullRay 150 10.0",
+      "type": "Enduro",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 173,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "GravelRay 5.0",
+      "type": "Gravel",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 179,
+          "rider_height_max": 189,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "RaceRay 8.0",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 163,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Nayta",
+      "type": "Other",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 168,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "FullRay E-Nine 6.0",
+      "type": "Trail",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 158,
+          "rider_height_max": 168,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "GravelRay 5.0 SE",
+      "type": "Gravel",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 171,
+          "rider_height_max": 182,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Nayta Pro",
+      "type": "Other",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 168,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Raceray 9.0",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 173,
+          "rider_height_max": 183,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "RaceRay 10.0",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 173,
+          "rider_height_max": 183,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Hardray E 5.0",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 158,
+          "rider_height_max": 168,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "160 E 8.0",
+      "type": "Trail",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 163,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "HardRay 2.5",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 163,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    }
+  ]
+}

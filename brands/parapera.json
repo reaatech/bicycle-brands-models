@@ -1,0 +1,33 @@
+{
+  "brand": "Parapera",
+  "models": [
+    {
+      "model": "Anemos",
+      "type": "Gravel",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": "XL",
+          "rider_height_min": 184,
+          "rider_height_max": 201,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Get Fast",
+      "type": "Gravel",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": "XS",
+          "rider_height_min": 147,
+          "rider_height_max": 168,
+          "measurement_unit": "cm"
+        }
+      ]
+    }
+  ]
+}

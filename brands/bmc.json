@@ -1,0 +1,4601 @@
+{
+  "brand": "BMC",
+  "models": [
+    {
+      "model": "teamelite 02",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": "S",
+          "rider_height_min": 163,
+          "rider_height_max": 174,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "M",
+          "rider_height_min": 163,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Fourstroke 01 THREE",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "full",
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 180,
+          "rider_height_max": 189,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "M",
+          "rider_height_min": 171,
+          "rider_height_max": 182,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "XL",
+          "rider_height_min": 178,
+          "rider_height_max": 198,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "TEAMMACHINE SLR 02 ONE",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 172,
+          "rider_height_max": 180,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "URS ONE (VAR 2)",
+      "type": "Gravel",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 178,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "XL",
+          "rider_height_min": 186,
+          "rider_height_max": 196,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Roadmachine SIX",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 165,
+          "rider_height_max": 174,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Timemachine 01 DISC ONE",
+      "type": "Triathlon",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 170,
+          "rider_height_max": 180,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "L",
+          "rider_height_min": 186,
+          "rider_height_max": 196,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "S",
+          "rider_height_min": null,
+          "rider_height_max": 172,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "01",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "full",
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 163,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Roadmachine 01 FOUR",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 172,
+          "rider_height_max": 180,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Teamelite 02 ONE",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 170,
+          "rider_height_max": 180,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "L",
+          "rider_height_min": 178,
+          "rider_height_max": 189,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "timemachine TMR01",
+      "type": "Triathlon",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 163,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": null,
+          "rider_height_min": 168,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Teammachine SLR01 TWO P2P",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 178,
+          "rider_height_max": 186,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "TIMEMACHINE ROAD 01 ONE",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 178,
+          "rider_height_max": 186,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "crossmachine CX01",
+      "type": "Gravel",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 173,
+          "rider_height_max": 183,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Roadmachine 01 ONE",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 183,
+          "rider_height_max": 192,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Teammachine SLR THREE",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 165,
+          "rider_height_max": 174,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "M",
+          "rider_height_min": 163,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "TEAMMACHINE SLR 01 TWO",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 172,
+          "rider_height_max": 180,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "M",
+          "rider_height_min": 163,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Teammachine SLR 01",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 147,
+          "rider_height_max": 163,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Teammachine SLR01 DISC THREE",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 172,
+          "rider_height_max": 180,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Teammachine SLR02 TWO",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 183,
+          "rider_height_max": 193,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "L",
+          "rider_height_min": 173,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Timemachine 01 Road Three",
+      "type": "Triathlon",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 173,
+          "rider_height_max": 183,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "SLR01 2024",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 168,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Teammachine R 01 ONE",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 178,
+          "rider_height_max": 186,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "URS THREE",
+      "type": "Gravel",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 168,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "S",
+          "rider_height_min": 165,
+          "rider_height_max": 170,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "L",
+          "rider_height_min": 178,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "SLR01 limited edition",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 168,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Timemachine ROAD 01 FOUR",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 178,
+          "rider_height_max": 186,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Fourstroke 01 ONE",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 180,
+          "rider_height_max": 189,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "M",
+          "rider_height_min": 171,
+          "rider_height_max": 182,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": null,
+          "rider_height_min": 171,
+          "rider_height_max": 182,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "S",
+          "rider_height_min": null,
+          "rider_height_max": 173,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Kaius 01 THREE",
+      "type": "Gravel",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 178,
+          "rider_height_max": 186,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "SL01",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 163,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Roadmachine 01 LTD",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 172,
+          "rider_height_max": 180,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "TIMEMACHINE ROAD 01 MOD",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 172,
+          "rider_height_max": 180,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "ROAD RACER SL01 MISURA 54M USATO",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 168,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Timemachine 01 DISC TWO",
+      "type": "Triathlon",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 186,
+          "rider_height_max": 196,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "M",
+          "rider_height_min": 170,
+          "rider_height_max": 180,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Teammachine SLR01 ONE",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": null,
+          "rider_height_max": 167,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "teammachine SLR02",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 172,
+          "rider_height_max": 180,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Twostroke 01 FRS",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": "XL",
+          "rider_height_min": 187,
+          "rider_height_max": 200,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "L",
+          "rider_height_min": 178,
+          "rider_height_max": 189,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Teammachine SLR TWO",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 178,
+          "rider_height_max": 186,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Fourstroke 01 TWO",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "full",
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 171,
+          "rider_height_max": 182,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "S",
+          "rider_height_min": null,
+          "rider_height_max": 173,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "L",
+          "rider_height_min": 180,
+          "rider_height_max": 189,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": null,
+          "rider_height_min": 180,
+          "rider_height_max": 189,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "team machine slr one  axs 12v",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 178,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Teamelite01",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": "S",
+          "rider_height_min": 158,
+          "rider_height_max": 173,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Fourstroke THREE",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "full",
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 171,
+          "rider_height_max": 182,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "L",
+          "rider_height_min": 180,
+          "rider_height_max": 189,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Speedfox AMP AL TWO",
+      "type": "Trail",
+      "ebike": false,
+      "suspension": "full",
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 173,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "TEAMMACHINE SLR02 DISC THREE",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 178,
+          "rider_height_max": 186,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "teamelite 01",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 179,
+          "rider_height_max": 189,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "M",
+          "rider_height_min": 171,
+          "rider_height_max": 182,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Roadmachine 01 THREE",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 178,
+          "rider_height_max": 186,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "roadmachine 02",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 178,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "URS 01 GRX",
+      "type": "Gravel",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 158,
+          "rider_height_max": 173,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Teammachine SLR SEVEN",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 178,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "trackmachine TR02",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 173,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "M",
+          "rider_height_min": 168,
+          "rider_height_max": 179,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "sportelite SE",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 163,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Roadmachine 01 ONE P2P",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 184,
+          "rider_height_max": 192,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "URS 01 ONE",
+      "type": "Gravel",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 170,
+          "rider_height_max": 180,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "L",
+          "rider_height_min": 178,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Twostroke 01 FOUR",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 163,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "XL",
+          "rider_height_min": 187,
+          "rider_height_max": 200,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "L",
+          "rider_height_min": 178,
+          "rider_height_max": 189,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": null,
+          "rider_height_min": 163,
+          "rider_height_max": 173,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Kaius 01 TWO",
+      "type": "Gravel",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 178,
+          "rider_height_max": 186,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "teammachine SLR03",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 158,
+          "rider_height_max": 168,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "L",
+          "rider_height_min": 173,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Teammachine SLR 01 MOD",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 168,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "ROADMACHINE X",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 172,
+          "rider_height_max": 180,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Twostroke 01 ONE",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": "S",
+          "rider_height_min": 162,
+          "rider_height_max": 172,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "L",
+          "rider_height_min": 178,
+          "rider_height_max": 189,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "M",
+          "rider_height_min": 170,
+          "rider_height_max": 180,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": null,
+          "rider_height_min": 163,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Roadmachine THREE",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 165,
+          "rider_height_max": 174,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "speedfox 02",
+      "type": "Trail",
+      "ebike": false,
+      "suspension": "full",
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 163,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Roadmachine 02 TWO",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 166,
+          "rider_height_max": 174,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "URS One 2020",
+      "type": "Gravel",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": "XL",
+          "rider_height_min": 178,
+          "rider_height_max": 198,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Fourstroke 01 LTD",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "full",
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 180,
+          "rider_height_max": 189,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "M",
+          "rider_height_min": 171,
+          "rider_height_max": 182,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "SPEEDMACHINE 01 TWO",
+      "type": "Triathlon",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 168,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Teammachine SLR FIVE",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 178,
+          "rider_height_max": 186,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Roadmachine FIVE",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 178,
+          "rider_height_max": 186,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "SLRO1",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 168,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Teammachine SLR ONE",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 165,
+          "rider_height_max": 174,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Teammachine SLR01 THREE",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 165,
+          "rider_height_max": 174,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Timemachine 01 ROAD TWO",
+      "type": "Triathlon",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 172,
+          "rider_height_max": 180,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Teamelite te01XT",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 163,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Fourstroke FOUR",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "full",
+      "sizes": [
+        {
+          "size": "S",
+          "rider_height_min": null,
+          "rider_height_max": 173,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "M",
+          "rider_height_min": 171,
+          "rider_height_max": 182,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": null,
+          "rider_height_min": 163,
+          "rider_height_max": 173,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "L",
+          "rider_height_min": 180,
+          "rider_height_max": 189,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Roadracer SL01",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 168,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Roadmachine AL X TWO",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": "S",
+          "rider_height_min": 162,
+          "rider_height_max": 172,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Teamelite 03 THREE",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": "S",
+          "rider_height_min": 158,
+          "rider_height_max": 171,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "KAIUS 01 ONE",
+      "type": "Gravel",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": null,
+          "rider_height_max": 167,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "TEAMMACHINE SLR 01 ONE",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 178,
+          "rider_height_max": 186,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "S",
+          "rider_height_min": 158,
+          "rider_height_max": 173,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Teammachine SLR01 DISC ONE",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 172,
+          "rider_height_max": 180,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "urs 01 three  gx axs",
+      "type": "Gravel",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 173,
+          "rider_height_max": 183,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "timemachine 02",
+      "type": "Triathlon",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 163,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": null,
+          "rider_height_min": 173,
+          "rider_height_max": 183,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Timemachine TWO",
+      "type": "Triathlon",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 170,
+          "rider_height_max": 180,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "FOURTROKE",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 163,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Slr 01",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 168,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Twostroke AL SIX",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 180,
+          "rider_height_max": 192,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": null,
+          "rider_height_min": 163,
+          "rider_height_max": 173,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Twostroke AL FIVE",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": "XL",
+          "rider_height_min": 190,
+          "rider_height_max": 200,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "L",
+          "rider_height_min": 180,
+          "rider_height_max": 192,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "teammachine SLR01",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 172,
+          "rider_height_max": 180,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Roadmachine X ONE",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 178,
+          "rider_height_max": 186,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Roadmachine ONE",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 165,
+          "rider_height_max": 174,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "XL",
+          "rider_height_min": 178,
+          "rider_height_max": 198,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Kaius 01 LTD",
+      "type": "Gravel",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 172,
+          "rider_height_max": 180,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "BMC temmachine SLR01",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 173,
+          "rider_height_max": 183,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Teammachine SLR FOUR",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 165,
+          "rider_height_max": 174,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "timemachine 01",
+      "type": "Triathlon",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": "S",
+          "rider_height_min": 158,
+          "rider_height_max": 170,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "M",
+          "rider_height_min": 163,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": null,
+          "rider_height_min": 168,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "URS AL TWO",
+      "type": "Gravel",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": "S",
+          "rider_height_min": 162,
+          "rider_height_max": 172,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "teamelite TE01",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 163,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Fourstroke 01 LT ONE",
+      "type": "Trail",
+      "ebike": false,
+      "suspension": "full",
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 180,
+          "rider_height_max": 189,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "M",
+          "rider_height_min": 171,
+          "rider_height_max": 182,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "XL",
+          "rider_height_min": 187,
+          "rider_height_max": 200,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Teammachine SLR Two Carbon Sram Force AXS",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 168,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Roadmachine AMP TWO",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 172,
+          "rider_height_max": 180,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "URS FOUR",
+      "type": "Gravel",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": "XL",
+          "rider_height_min": 178,
+          "rider_height_max": 198,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "M",
+          "rider_height_min": 170,
+          "rider_height_max": 180,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "granfondo GF02",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 178,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "M",
+          "rider_height_min": 163,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "L",
+          "rider_height_min": 173,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "timemachine TMR02 Ultegra",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 168,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "speedfox 03 trailcrew",
+      "type": "Enduro",
+      "ebike": false,
+      "suspension": "full",
+      "sizes": [
+        {
+          "size": "S",
+          "rider_height_min": 163,
+          "rider_height_max": 174,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Twostroke AL ONE",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 180,
+          "rider_height_max": 192,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "XL",
+          "rider_height_min": 178,
+          "rider_height_max": 198,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": null,
+          "rider_height_min": 173,
+          "rider_height_max": 183,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "BMC Teammachine SLR 02 Disc/Carbon/SRAM Force AXS Etap 2x12/Size 54/Good Condition!",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 168,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Twostroke 01 TWO",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": "XL",
+          "rider_height_min": 187,
+          "rider_height_max": 200,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "M",
+          "rider_height_min": 170,
+          "rider_height_max": 180,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "S",
+          "rider_height_min": 162,
+          "rider_height_max": 172,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "TEAMMACHINE SLR 01 FOUR",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 165,
+          "rider_height_max": 174,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Impec",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 168,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "SLR-01",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 168,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Roadmachine FRS 2023 Frameset 2023",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 158,
+          "rider_height_max": 168,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Roadmachine TWO",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": null,
+          "rider_height_max": 160,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "timemachine TMR02",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 168,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "M",
+          "rider_height_min": 163,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "team machine slr three  di2 12v",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 163,
+          "rider_height_max": 173,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Roadmachine FOUR",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 178,
+          "rider_height_max": 186,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "speedfox 02 trailcrew",
+      "type": "Enduro",
+      "ebike": false,
+      "suspension": "full",
+      "sizes": [
+        {
+          "size": "S",
+          "rider_height_min": 163,
+          "rider_height_max": 174,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "RM01 Ultegra 2017",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 173,
+          "rider_height_max": 183,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Twostroke AL FOUR",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": "XL",
+          "rider_height_min": 178,
+          "rider_height_max": 198,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "L",
+          "rider_height_min": 180,
+          "rider_height_max": 192,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "SLR 01 di2 ultegra",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 168,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Timemachine 02 TWO",
+      "type": "Triathlon",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": "S",
+          "rider_height_min": 158,
+          "rider_height_max": 173,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "M",
+          "rider_height_min": 170,
+          "rider_height_max": 180,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Teammachine SLR03 ONE",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 173,
+          "rider_height_max": 183,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "S",
+          "rider_height_min": 158,
+          "rider_height_max": 173,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "URS LT ONE",
+      "type": "Gravel",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 178,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "S",
+          "rider_height_min": null,
+          "rider_height_max": 172,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "M",
+          "rider_height_min": 170,
+          "rider_height_max": 180,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Teammachine SLR01 ONE P2P",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 184,
+          "rider_height_max": 192,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Roadmachine 01 MOD",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 184,
+          "rider_height_max": 192,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "URS 01 THREE",
+      "type": "Gravel",
+      "ebike": false,
+      "suspension": "full",
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 170,
+          "rider_height_max": 180,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": null,
+          "rider_height_min": 168,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "L",
+          "rider_height_min": 178,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Teammachine SLR 01 ONE P2P",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": "XS",
+          "rider_height_min": 147,
+          "rider_height_max": 168,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "M",
+          "rider_height_min": 163,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Teammachine SLR01 DISC FOUR",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 178,
+          "rider_height_max": 186,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Time Machine 02",
+      "type": "Triathlon",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 168,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Teammachine SLR02 DISC FOUR",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 172,
+          "rider_height_max": 180,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Teammachine R 01 FOUR",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 165,
+          "rider_height_max": 174,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "SLC01",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 163,
+          "rider_height_max": 173,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Twostroke 01 THREE",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 178,
+          "rider_height_max": 189,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "M",
+          "rider_height_min": 170,
+          "rider_height_max": 180,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "S",
+          "rider_height_min": 162,
+          "rider_height_max": 172,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "SLT01",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 173,
+          "rider_height_max": 183,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Pro machine SLC02",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 158,
+          "rider_height_max": 168,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Fourstroke FS03",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "full",
+      "sizes": [
+        {
+          "size": "S",
+          "rider_height_min": 158,
+          "rider_height_max": 173,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Alpenchallenge",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 173,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Urbanchallenge",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 163,
+          "rider_height_max": 173,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Teammachine SLR01 DISC TEAM",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 172,
+          "rider_height_max": 180,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Team Machine SLR01",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 168,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Fourstroke 01 Frameset",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "full",
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 171,
+          "rider_height_max": 182,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "S",
+          "rider_height_min": null,
+          "rider_height_max": 173,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Timemachine 01 ONE",
+      "type": "Triathlon",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": "S",
+          "rider_height_min": 158,
+          "rider_height_max": 173,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Roadmachine 02 THREE",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 184,
+          "rider_height_max": 192,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Crossmachine CX01 ONE",
+      "type": "Gravel",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 163,
+          "rider_height_max": 173,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "BMC ROAD RACER SL01 MISURA 54M USATO",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 168,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Fourstroke 01 TEAM",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "full",
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 173,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "M",
+          "rider_height_min": 171,
+          "rider_height_max": 182,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "streetracer SR02",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 147,
+          "rider_height_max": 163,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Agonist 01 ONE",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "full",
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 168,
+          "rider_height_max": 180,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "BMC Teammachine SLR01 Ultegra 11v. Taglia 55",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 168,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Twostroke 01 FIVE",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 170,
+          "rider_height_max": 180,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "L",
+          "rider_height_min": 178,
+          "rider_height_max": 189,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "S",
+          "rider_height_min": 162,
+          "rider_height_max": 172,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Teammachine SLR02 ONE",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 172,
+          "rider_height_max": 180,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "team machine slr five  di2 12v",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 168,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "RM01",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 163,
+          "rider_height_max": 173,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Teammachine SLR01 FOUR",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 177,
+          "rider_height_max": 186,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "XXL",
+          "rider_height_min": 188,
+          "rider_height_max": 198,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "URS LT TWO",
+      "type": "Gravel",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": null,
+          "rider_height_max": 172,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "L",
+          "rider_height_min": 178,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "S",
+          "rider_height_min": null,
+          "rider_height_max": 172,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Timemachine 02 ONE",
+      "type": "Triathlon",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 186,
+          "rider_height_max": 196,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Fourstroke ONE",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "full",
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 173,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "M",
+          "rider_height_min": 171,
+          "rider_height_max": 182,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Roadmachine X TWO",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 172,
+          "rider_height_max": 180,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "01 Four",
+      "type": "Triathlon",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 163,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Speedfox 02 ONE",
+      "type": "Trail",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 147,
+          "rider_height_max": 163,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Teammachine SLR02 DISC ONE",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 178,
+          "rider_height_max": 186,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Teammachine SLR01 TWO",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 165,
+          "rider_height_max": 174,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Pro Machine",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 163,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "URS 01 TWO",
+      "type": "Gravel",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": "S",
+          "rider_height_min": null,
+          "rider_height_max": 172,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "L",
+          "rider_height_min": 178,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "fourstroke 01",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "full",
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 158,
+          "rider_height_max": 173,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Twostroke AL TWO",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 180,
+          "rider_height_max": 192,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "M",
+          "rider_height_min": 169,
+          "rider_height_max": 182,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "S",
+          "rider_height_min": null,
+          "rider_height_max": 171,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Teammachine SLR01 FIVE",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 172,
+          "rider_height_max": 180,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Timemachine ROAD 02 ONE",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 158,
+          "rider_height_max": 168,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "teammachine slr01 campagnolo super record eps tg",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 168,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Promachine",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 173,
+          "rider_height_max": 183,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Roadmachine 01 FIVE",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 184,
+          "rider_height_max": 192,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "SLR01",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 158,
+          "rider_height_max": 168,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "urs01 grx di2",
+      "type": "Gravel",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 158,
+          "rider_height_max": 173,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Teammachine SLR02 DISC TWO",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 172,
+          "rider_height_max": 180,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "TIMEMACHINE ROAD 01 THREE",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 165,
+          "rider_height_max": 174,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "R01",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 163,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Team machine SLR01 altitude series",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 158,
+          "rider_height_max": 168,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "teammachine SLR01 Ultegra",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 168,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "PROMACHINE SLC 01, SIZE 53, CONDITION 10/10 LIKE FROM THE SHOP",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 163,
+          "rider_height_max": 173,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Racemachine RM01",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 163,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": null,
+          "rider_height_min": 173,
+          "rider_height_max": 183,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Fourstroke 01 LT | TWO",
+      "type": "Trail",
+      "ebike": false,
+      "suspension": "full",
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 171,
+          "rider_height_max": 182,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Teammachine slr _ two",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 173,
+          "rider_height_max": 183,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Teammachine R 01 TWO",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 165,
+          "rider_height_max": 174,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Twostroke AL THREE",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": "XL",
+          "rider_height_min": 190,
+          "rider_height_max": 200,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Roadmachine 02 ONE",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 172,
+          "rider_height_max": 180,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "3",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 173,
+          "rider_height_max": 183,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "TM02 Sram Red Etap",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 173,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "SLR03",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 168,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "speedfox sf01",
+      "type": "Trail",
+      "ebike": false,
+      "suspension": "full",
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 163,
+          "rider_height_max": 173,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Timemachine TM02",
+      "type": "Triathlon",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 163,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Fourstroke TWO",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "full",
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 171,
+          "rider_height_max": 182,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "L",
+          "rider_height_min": 180,
+          "rider_height_max": 189,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "SLR01 Ultegra 8000 2x11",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 168,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "02",
+      "type": "Triathlon",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 163,
+          "rider_height_max": 173,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "S",
+          "rider_height_min": 158,
+          "rider_height_max": 173,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "TIMEMACHINE ROAD 01 TWO",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 178,
+          "rider_height_max": 186,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "SLR01 FRAME",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 168,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "teammachine ALR01",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 158,
+          "rider_height_max": 168,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Twotroke 01",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 158,
+          "rider_height_max": 168,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Roadmachine 01 X ONE",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": null,
+          "rider_height_max": 160,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Teammachine SLR01 MOD ICS Carbon P2P",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 178,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "257 AL ONE City Bike mit Beleuchtung Größe S",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": "S",
+          "rider_height_min": 158,
+          "rider_height_max": 173,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "TIMEMACHINE TMR 01",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 168,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Fourstroke 01 FRS",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "full",
+      "sizes": [
+        {
+          "size": "XL",
+          "rider_height_min": 178,
+          "rider_height_max": 198,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "timemachine TM02 Ultegra",
+      "type": "Triathlon",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 173,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Crossmachine CX01 TWO",
+      "type": "Gravel",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": "XS",
+          "rider_height_min": 147,
+          "rider_height_max": 168,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": null,
+          "rider_height_min": 147,
+          "rider_height_max": 163,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Speedmachine 01 MOD",
+      "type": "Triathlon",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 172,
+          "rider_height_max": 185,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Teamachine SLR01",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 173,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Agonist 02 ONE",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "full",
+      "sizes": [
+        {
+          "size": "XL",
+          "rider_height_min": 186,
+          "rider_height_max": 199,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "L",
+          "rider_height_min": 178,
+          "rider_height_max": 189,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Dura-Ace Mechanical 11sp",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 173,
+          "rider_height_max": 183,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Teammachine R 01 LTD",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 172,
+          "rider_height_max": 180,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "URS AL ONE",
+      "type": "Gravel",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": "S",
+          "rider_height_min": 162,
+          "rider_height_max": 172,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Teammachine SLR01 LTD",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 173,
+          "rider_height_max": 183,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Teammachine SLR 01 ONE P2P 2022",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 158,
+          "rider_height_max": 168,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "twostroke 01 telaio xl",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 178,
+          "rider_height_max": 198,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "URS TWO",
+      "type": "Gravel",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": "S",
+          "rider_height_min": 165,
+          "rider_height_max": 170,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "M",
+          "rider_height_min": 170,
+          "rider_height_max": 180,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": null,
+          "rider_height_min": 178,
+          "rider_height_max": 198,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "L",
+          "rider_height_min": 178,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Fourstroke 01 LT TWO",
+      "type": "Trail",
+      "ebike": false,
+      "suspension": "full",
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 171,
+          "rider_height_max": 182,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "timemachine tm01",
+      "type": "Triathlon",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 178,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "URS ONE",
+      "type": "Gravel",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": "XL",
+          "rider_height_min": 186,
+          "rider_height_max": 196,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "M",
+          "rider_height_min": 170,
+          "rider_height_max": 180,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": null,
+          "rider_height_min": 178,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Teamelite 01 ONE",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 173,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Agonist 02 TWO",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "full",
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 171,
+          "rider_height_max": 182,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Srl 01",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 163,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": null,
+          "rider_height_min": 168,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Teammachine SLR01 TEAM",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 172,
+          "rider_height_max": 180,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "URS 01 FOUR",
+      "type": "Gravel",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": "S",
+          "rider_height_min": 165,
+          "rider_height_max": 170,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "L",
+          "rider_height_min": 176,
+          "rider_height_max": 189,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "SLR Teamachine 03",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 158,
+          "rider_height_max": 168,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Teammachine SLR 01 MOD ICS2 P2P",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 178,
+          "rider_height_max": 186,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Teammachine SLR01 DISC TWO",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 165,
+          "rider_height_max": 174,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "257 AL FOUR",
+      "type": "Gravel",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 163,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "L",
+          "rider_height_min": 173,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Teamelite 02 TWO",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 178,
+          "rider_height_max": 189,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Teamelite 03 TWO",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 168,
+          "rider_height_max": 180,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "fourstroke 02",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "full",
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 163,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Team Machine SLR One  Di2 12V",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 178,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Roadmachine FRS",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 147,
+          "rider_height_max": 163,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "kaius",
+      "type": "Gravel",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 173,
+          "rider_height_max": 183,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "SLR MASTERPIECE",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 183,
+          "rider_height_max": 193,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "TwoStroke 01",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 163,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "fourstroke 01 two  xx1 axs",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "full",
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 173,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Speedmachine 01 ONE",
+      "type": "Triathlon",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": "S",
+          "rider_height_min": null,
+          "rider_height_max": 174,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Fourstroke LT TWO",
+      "type": "Trail",
+      "ebike": false,
+      "suspension": "full",
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 171,
+          "rider_height_max": 182,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "BMC URS 01 Three",
+      "type": "Gravel",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 173,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Roadmachine X MY19",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 172,
+          "rider_height_max": 180,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Teammachine SLR 01 THREE P2P",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 172,
+          "rider_height_max": 180,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "SLR02",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 168,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "TEAMMACHINE SLR 01 THREE",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": null,
+          "rider_height_max": 167,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Teammachine SLR 02",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 168,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Va corse",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 173,
+          "rider_height_max": 183,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "tmr01",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 168,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "TEAMMACHINE SLR01 Masterpiece Sram Red",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 173,
+          "rider_height_max": 183,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "SLR01 Full Shimano Dura Ace",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 163,
+          "rider_height_max": 173,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "AMP TWO",
+      "type": "Downhill",
+      "ebike": false,
+      "suspension": "full",
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 163,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "team machine slr 02 one  di2 11v",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 163,
+          "rider_height_max": 173,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "TEAMELITE 02 ONE MTB 29” TAGLIA S USATO",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": "S",
+          "rider_height_min": 158,
+          "rider_height_max": 173,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "road machine five",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 168,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "BMC FOURSTROKER LT TWO",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "full",
+      "sizes": [
+        {
+          "size": "S",
+          "rider_height_min": 158,
+          "rider_height_max": 173,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Teammachine R 01 MOD",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 168,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Roadmachine 01 TWO RHINO GREY",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 172,
+          "rider_height_max": 180,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "SLR01 DISC",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 168,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "srl01 uno",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 173,
+          "rider_height_max": 183,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Fourstroke AMP LT TWO",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 163,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "teammachine slr01 Shimano Ultegra Di2",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 163,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "trackmachine TR01",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 147,
+          "rider_height_max": 163,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "roadmachine 03",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 166,
+          "rider_height_max": 174,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Teammachine SLR 01 Five",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 172,
+          "rider_height_max": 180,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Roadmachine 01 MOD 2021",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 158,
+          "rider_height_max": 168,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Teammachine SLR01 Module (Carbon Red)",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 173,
+          "rider_height_max": 183,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "TEAMMACHINE SLR 02 TWO",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 158,
+          "rider_height_max": 168,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Custom",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 152,
+          "rider_height_max": 168,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Sportelite SE ONE",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 171,
+          "rider_height_max": 182,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "roadmachine02",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 173,
+          "rider_height_max": 183,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Teammachine SLR01 THREE P2P",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 165,
+          "rider_height_max": 174,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Street Racer ALR01",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 168,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Roadmachine 01 TWO",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 172,
+          "rider_height_max": 180,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Timemachine",
+      "type": "Triathlon",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 170,
+          "rider_height_max": 180,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "trailfox 02",
+      "type": "Enduro",
+      "ebike": false,
+      "suspension": "full",
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 176,
+          "rider_height_max": 187,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Speedfox ONE",
+      "type": "Trail",
+      "ebike": false,
+      "suspension": "full",
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 171,
+          "rider_height_max": 182,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "TEAMMACHINE ALR ONE",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 166,
+          "rider_height_max": 174,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Look 765",
+      "type": "Other",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 173,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Speedfox 01 ONE",
+      "type": "Trail",
+      "ebike": false,
+      "suspension": "full",
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 163,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Teammachine ALR01 TWO",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 168,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Teammachine SLR01 TEAM P2P",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 178,
+          "rider_height_max": 186,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "SLR",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": null,
+          "rider_height_max": null,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Speedmachine 01 FOUR",
+      "type": "Triathlon",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 173,
+          "rider_height_max": 183,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "SLR02 2015",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 168,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "roadmachine 01",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 177,
+          "rider_height_max": 186,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Teammachine SLR01 MOD ICS Carbon P2P 2022 Frameset 2022",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 183,
+          "rider_height_max": 193,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "SLR MPC Masterpiece",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 158,
+          "rider_height_max": 168,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Fourstroke 01 LT | ONE",
+      "type": "Trail",
+      "ebike": false,
+      "suspension": "full",
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 180,
+          "rider_height_max": 189,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "URS 01 One Custom GX AXS",
+      "type": "Gravel",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 147,
+          "rider_height_max": 163,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Speedfox TWO",
+      "type": "Trail",
+      "ebike": false,
+      "suspension": "full",
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 180,
+          "rider_height_max": 189,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "TEAMMACHINE ALR TWO",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 172,
+          "rider_height_max": 180,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Alpenchallenge AL FOUR",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 173,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "SLR01 FOUR",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 158,
+          "rider_height_max": 168,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "TMR02",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 183,
+          "rider_height_max": 193,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Teammachine ALR01 FOUR",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 147,
+          "rider_height_max": 163,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Teammachine SLR01 DISC Module (Stealth)",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 177,
+          "rider_height_max": 186,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "SLR 01 TWO",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 173,
+          "rider_height_max": 183,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "TEAMMACHINE SLR",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 168,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Teamelite 01 THREE",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 179,
+          "rider_height_max": 189,
+          "measurement_unit": "cm"
+        }
+      ]
+    }
+  ]
+}

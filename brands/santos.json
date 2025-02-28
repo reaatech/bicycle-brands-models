@@ -1,0 +1,47 @@
+{
+  "brand": "Santos",
+  "models": [
+    {
+      "model": "4.29 (adventure lite)",
+      "type": "Other",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 183,
+          "rider_height_max": 193,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Custom",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 173,
+          "rider_height_max": 183,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "TRAVEL",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "full",
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 183,
+          "rider_height_max": 193,
+          "measurement_unit": "cm"
+        }
+      ]
+    }
+  ]
+}

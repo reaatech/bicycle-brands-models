@@ -1,0 +1,19 @@
+{
+  "brand": "Panorama",
+  "models": [
+    {
+      "model": "Panasonic DX-4000 Vintage Road Bike 64 cm",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 194,
+          "rider_height_max": null,
+          "measurement_unit": "cm"
+        }
+      ]
+    }
+  ]
+}

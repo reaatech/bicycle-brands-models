@@ -1,0 +1,47 @@
+{
+  "brand": "Lauf",
+  "models": [
+    {
+      "model": "Seigla - Weekend Warrior Wireless",
+      "type": "Gravel",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": "XS",
+          "rider_height_min": 156,
+          "rider_height_max": 167,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "True Grit - Ultimate",
+      "type": "Gravel",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": "XS",
+          "rider_height_min": 156,
+          "rider_height_max": 166,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "True Grit Race",
+      "type": "Gravel",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 180,
+          "rider_height_max": 191,
+          "measurement_unit": "cm"
+        }
+      ]
+    }
+  ]
+}

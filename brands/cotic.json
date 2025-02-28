@@ -1,0 +1,61 @@
+{
+  "brand": "Cotic",
+  "models": [
+    {
+      "model": "BFe Gold GX Eagle AXS",
+      "type": "Trail",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": "XL",
+          "rider_height_min": 186,
+          "rider_height_max": 195,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "BFE Custom",
+      "type": "Trail",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 173,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Cascade",
+      "type": "Other",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 173,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "BFe Gold Deore XT",
+      "type": "Trail",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 178,
+          "rider_height_max": 189,
+          "measurement_unit": "cm"
+        }
+      ]
+    }
+  ]
+}

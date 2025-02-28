@@ -1,0 +1,33 @@
+{
+  "brand": "Titus",
+  "models": [
+    {
+      "model": "Loco Moto SRAM GX Titanium",
+      "type": "Enduro",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 173,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Unknown",
+      "type": "Vintage",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 183,
+          "rider_height_max": 193,
+          "measurement_unit": "cm"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "brand": "Banshee",
+  "models": [
+    {
+      "model": "Legend 29 Frame",
+      "type": "Downhill",
+      "ebike": false,
+      "suspension": "full",
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 173,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Spitfire",
+      "type": "Trail",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 173,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Phantom v3.2",
+      "type": "Trail",
+      "ebike": false,
+      "suspension": "full",
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 173,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "RUNE V3.2 Frame",
+      "type": "Enduro",
+      "ebike": false,
+      "suspension": "full",
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 168,
+          "rider_height_max": 180,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Prime V3",
+      "type": "Trail",
+      "ebike": false,
+      "suspension": "full",
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 163,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Titan",
+      "type": "Enduro",
+      "ebike": false,
+      "suspension": "full",
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 173,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Titan v3.2",
+      "type": "Enduro",
+      "ebike": false,
+      "suspension": "full",
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 163,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Scythe",
+      "type": "Downhill",
+      "ebike": false,
+      "suspension": "full",
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 163,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Rune",
+      "type": "Enduro",
+      "ebike": false,
+      "suspension": "full",
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 173,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        }
+      ]
+    }
+  ]
+}

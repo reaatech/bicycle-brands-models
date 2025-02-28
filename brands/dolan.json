@@ -1,0 +1,61 @@
+{
+  "brand": "Dolan",
+  "models": [
+    {
+      "model": "TDR Tandem Disc Road Bike",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 168,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Carbon track frame DF4",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 168,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Pre Cursa Aluminium Grass Track Bike - Alpina - Custom",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": "S",
+          "rider_height_min": 156,
+          "rider_height_max": 164,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "L'etape SL Carbon Road Bike - Shimano Ultegra",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 173,
+          "rider_height_max": 183,
+          "measurement_unit": "cm"
+        }
+      ]
+    }
+  ]
+}

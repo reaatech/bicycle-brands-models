@@ -1,0 +1,19 @@
+{
+  "brand": "Kaiser",
+  "models": [
+    {
+      "model": "Cirrus Aero Sram Force AXS",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 163,
+          "rider_height_max": 173,
+          "measurement_unit": "cm"
+        }
+      ]
+    }
+  ]
+}

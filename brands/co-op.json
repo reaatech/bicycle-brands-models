@@ -1,0 +1,39 @@
+{
+  "brand": "Co-op",
+  "models": [
+    {
+      "model": "CTY 1.1",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 173,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "DRT 1.1",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": "S",
+          "rider_height_min": 159,
+          "rider_height_max": 169,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "M",
+          "rider_height_min": 166,
+          "rider_height_max": 177,
+          "measurement_unit": "cm"
+        }
+      ]
+    }
+  ]
+}

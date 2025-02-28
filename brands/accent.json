@@ -1,0 +1,19 @@
+{
+  "brand": "Accent",
+  "models": [
+    {
+      "model": "Cx one carbon",
+      "type": "Gravel",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 183,
+          "rider_height_max": 193,
+          "measurement_unit": "cm"
+        }
+      ]
+    }
+  ]
+}

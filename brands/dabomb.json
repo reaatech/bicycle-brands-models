@@ -1,0 +1,19 @@
+{
+  "brand": "DABOMB",
+  "models": [
+    {
+      "model": "CHERRY BOMB FRAME SET",
+      "type": "Enduro",
+      "ebike": false,
+      "suspension": "full",
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 173,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        }
+      ]
+    }
+  ]
+}

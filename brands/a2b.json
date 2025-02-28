@@ -1,0 +1,19 @@
+{
+  "brand": "A2B",
+  "models": [
+    {
+      "model": "Advanced Pro",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 163,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    }
+  ]
+}

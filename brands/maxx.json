@@ -1,0 +1,19 @@
+{
+  "brand": "Maxx",
+  "models": [
+    {
+      "model": "Huradax",
+      "type": "Enduro",
+      "ebike": false,
+      "suspension": "full",
+      "sizes": [
+        {
+          "size": "XL",
+          "rider_height_min": 178,
+          "rider_height_max": 198,
+          "measurement_unit": "cm"
+        }
+      ]
+    }
+  ]
+}

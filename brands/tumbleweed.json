@@ -1,0 +1,19 @@
+{
+  "brand": "Tumbleweed",
+  "models": [
+    {
+      "model": "Stargazer",
+      "type": "Gravel",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": "XL",
+          "rider_height_min": 186,
+          "rider_height_max": 199,
+          "measurement_unit": "cm"
+        }
+      ]
+    }
+  ]
+}

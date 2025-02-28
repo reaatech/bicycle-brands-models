@@ -1,0 +1,33 @@
+{
+  "brand": "Ride1UP",
+  "models": [
+    {
+      "model": "Gravel Roadster v2",
+      "type": "City",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 171,
+          "rider_height_max": 190.5,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Roadster v2",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 168,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    }
+  ]
+}

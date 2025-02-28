@@ -1,0 +1,19 @@
+{
+  "brand": "BASIS",
+  "models": [
+    {
+      "model": "1 Full Suspension Mountain Bike - 26in Wheel - 18 Speed",
+      "type": "Enduro",
+      "ebike": false,
+      "suspension": "full",
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 163,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    }
+  ]
+}

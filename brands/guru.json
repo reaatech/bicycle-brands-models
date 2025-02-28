@@ -1,0 +1,47 @@
+{
+  "brand": "Guru",
+  "models": [
+    {
+      "model": "Geneo",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 163,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Praemio R",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 163,
+          "rider_height_max": 173,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "CR-701 (Custom Frame)",
+      "type": "Triathlon",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": "XXXL",
+          "rider_height_min": 198,
+          "rider_height_max": null,
+          "measurement_unit": "cm"
+        }
+      ]
+    }
+  ]
+}

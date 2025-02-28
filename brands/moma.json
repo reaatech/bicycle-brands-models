@@ -1,0 +1,19 @@
+{
+  "brand": "Moma",
+  "models": [
+    {
+      "model": "MOMA GTT 27,5 SHIMANO",
+      "type": "Other",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 163,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    }
+  ]
+}

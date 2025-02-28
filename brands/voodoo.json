@@ -1,0 +1,33 @@
+{
+  "brand": "Voodoo",
+  "models": [
+    {
+      "model": "Bizango",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 163,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Canzo",
+      "type": "Trail",
+      "ebike": false,
+      "suspension": "full",
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 172,
+          "rider_height_max": 180,
+          "measurement_unit": "cm"
+        }
+      ]
+    }
+  ]
+}

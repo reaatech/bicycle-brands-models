@@ -1,0 +1,19 @@
+{
+  "brand": "Obed",
+  "models": [
+    {
+      "model": "Boundary GRX 400",
+      "type": "Gravel",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": "XL",
+          "rider_height_min": 185,
+          "rider_height_max": 195,
+          "measurement_unit": "cm"
+        }
+      ]
+    }
+  ]
+}

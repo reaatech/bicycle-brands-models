@@ -1,0 +1,19 @@
+{
+  "brand": "Mino Denti",
+  "models": [
+    {
+      "model": "Denti Crono 28/26 ex pro John Den Braber",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 178,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        }
+      ]
+    }
+  ]
+}

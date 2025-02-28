@@ -1,0 +1,19 @@
+{
+  "brand": "Sirocco",
+  "models": [
+    {
+      "model": "Sirocco SA-Elite Fully",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "full",
+      "sizes": [
+        {
+          "size": "S",
+          "rider_height_min": 158,
+          "rider_height_max": 173,
+          "measurement_unit": "cm"
+        }
+      ]
+    }
+  ]
+}

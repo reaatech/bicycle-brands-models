@@ -1,0 +1,19 @@
+{
+  "brand": "Ortler",
+  "models": [
+    {
+      "model": "Meran",
+      "type": "Trekking & Touring",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 163,
+          "rider_height_max": 173,
+          "measurement_unit": "cm"
+        }
+      ]
+    }
+  ]
+}

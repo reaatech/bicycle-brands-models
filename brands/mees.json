@@ -1,0 +1,19 @@
+{
+  "brand": "Mees",
+  "models": [
+    {
+      "model": "MEES IRIS04 DISC CARBON Ultegra Di2 framesize 54",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": "S",
+          "rider_height_min": 158,
+          "rider_height_max": 173,
+          "measurement_unit": "cm"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "brand": "AVENGER",
+  "models": [
+    {
+      "model": "R8",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 158,
+          "rider_height_max": 168,
+          "measurement_unit": "cm"
+        }
+      ]
+    }
+  ]
+}

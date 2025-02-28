@@ -1,0 +1,19 @@
+{
+  "brand": "GASGAS",
+  "models": [
+    {
+      "model": "TR3 27,5 x46 27s",
+      "type": "Other",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 173,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        }
+      ]
+    }
+  ]
+}

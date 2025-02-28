@@ -1,0 +1,19 @@
+{
+  "brand": "Quantec",
+  "models": [
+    {
+      "model": "Racing",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 194,
+          "rider_height_max": null,
+          "measurement_unit": "cm"
+        }
+      ]
+    }
+  ]
+}

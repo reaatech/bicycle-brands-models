@@ -1,0 +1,19 @@
+{
+  "brand": "Holdsworth",
+  "models": [
+    {
+      "model": "Mystique SRAM Force 1",
+      "type": "Gravel",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 178,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        }
+      ]
+    }
+  ]
+}

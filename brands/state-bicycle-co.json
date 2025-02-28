@@ -1,0 +1,109 @@
+{
+  "brand": "State Bicycle Co.",
+  "models": [
+    {
+      "model": "4130 Matte Black Fixed Gear / Single-Speed",
+      "type": "City",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 147.3,
+          "rider_height_max": 156,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "6061 Black Label All-Road Copper Brown 700c",
+      "type": "Gravel",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": "XS",
+          "rider_height_min": 160,
+          "rider_height_max": 170.2,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Undefeated II: Race Ready Track Bike from State Bicycle",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 178,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        },
+        {
+          "size": "M",
+          "rider_height_min": 163,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Matte Black",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 178,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "6061 Black Label v2 Pearl White",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 181,
+          "rider_height_max": 192,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "6061 All-Road Sunset Black/Sunset 700c 2024",
+      "type": "Gravel",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 168,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Electric bike",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 173,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        }
+      ]
+    }
+  ]
+}

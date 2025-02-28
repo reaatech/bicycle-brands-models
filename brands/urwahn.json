@@ -1,0 +1,19 @@
+{
+  "brand": "Urwahn",
+  "models": [
+    {
+      "model": "Waldwiesel",
+      "type": "Gravel",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": "S",
+          "rider_height_min": 158,
+          "rider_height_max": 173,
+          "measurement_unit": "cm"
+        }
+      ]
+    }
+  ]
+}

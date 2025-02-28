@@ -1,0 +1,19 @@
+{
+  "brand": "Huffy",
+  "models": [
+    {
+      "model": "Good Vibrations Women's Cruiser Bike",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": "S",
+          "rider_height_min": 158,
+          "rider_height_max": 173,
+          "measurement_unit": "cm"
+        }
+      ]
+    }
+  ]
+}

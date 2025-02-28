@@ -1,0 +1,19 @@
+{
+  "brand": "MSC",
+  "models": [
+    {
+      "model": "Zion, Cambios sram x7 2x10, frenos elixir 5, amortiguador Float Fox RP23, ruedas maxxis 26', talla L",
+      "type": "Enduro",
+      "ebike": false,
+      "suspension": "full",
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 173,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        }
+      ]
+    }
+  ]
+}

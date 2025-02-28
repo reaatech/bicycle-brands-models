@@ -1,0 +1,19 @@
+{
+  "brand": "STILUS",
+  "models": [
+    {
+      "model": "29\" Electric Mountain Bike E-ST Stilus",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "full",
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 173,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        }
+      ]
+    }
+  ]
+}

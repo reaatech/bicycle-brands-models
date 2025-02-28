@@ -1,0 +1,19 @@
+{
+  "brand": "Xtrail",
+  "models": [
+    {
+      "model": "Pedroni Ray 140",
+      "type": "Trail",
+      "ebike": false,
+      "suspension": "full",
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 173,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "brand": "Meral",
+  "models": [
+    {
+      "model": "Hensel",
+      "type": "Gravel",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 173,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        }
+      ]
+    }
+  ]
+}

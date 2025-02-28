@@ -1,0 +1,19 @@
+{
+  "brand": "Momentum",
+  "models": [
+    {
+      "model": "Pakyak E+",
+      "type": "Gravel",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": null,
+          "rider_height_max": null,
+          "measurement_unit": "cm"
+        }
+      ]
+    }
+  ]
+}

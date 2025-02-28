@@ -1,0 +1,47 @@
+{
+  "brand": "Van Dessel",
+  "models": [
+    {
+      "model": "ARCH65 SHIMANO DURA-ACE Di2",
+      "type": "Road",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 170.2,
+          "rider_height_max": 182.9,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "A.D.D. Frameset",
+      "type": "Gravel",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 168,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Country Road Bob with 11 speed internal hub",
+      "type": "Gravel",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 173,
+          "rider_height_max": 183,
+          "measurement_unit": "cm"
+        }
+      ]
+    }
+  ]
+}

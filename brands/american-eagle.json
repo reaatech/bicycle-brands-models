@@ -1,0 +1,19 @@
+{
+  "brand": "American Eagle",
+  "models": [
+    {
+      "model": "Atlanta 2.0",
+      "type": "Crosscountry",
+      "ebike": false,
+      "suspension": "hardtail",
+      "sizes": [
+        {
+          "size": "S",
+          "rider_height_min": 158,
+          "rider_height_max": 173,
+          "measurement_unit": "cm"
+        }
+      ]
+    }
+  ]
+}

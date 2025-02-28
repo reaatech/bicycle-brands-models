@@ -1,0 +1,19 @@
+{
+  "brand": "Airdrop",
+  "models": [
+    {
+      "model": "Edit V4 Works",
+      "type": "Enduro",
+      "ebike": false,
+      "suspension": "full",
+      "sizes": [
+        {
+          "size": "M",
+          "rider_height_min": 168,
+          "rider_height_max": 180,
+          "measurement_unit": "cm"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "brand": "Prime",
+  "models": [
+    {
+      "model": "Rocket S2",
+      "type": "Downhill",
+      "ebike": false,
+      "suspension": "full",
+      "sizes": [
+        {
+          "size": "XL",
+          "rider_height_min": 188,
+          "rider_height_max": 202,
+          "measurement_unit": "cm"
+        }
+      ]
+    },
+    {
+      "model": "Thunderflash GX",
+      "type": "Enduro",
+      "ebike": false,
+      "suspension": "full",
+      "sizes": [
+        {
+          "size": "L",
+          "rider_height_min": 173,
+          "rider_height_max": 188,
+          "measurement_unit": "cm"
+        }
+      ]
+    }
+  ]
+}

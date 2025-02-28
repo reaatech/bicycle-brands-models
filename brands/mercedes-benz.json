@@ -1,0 +1,19 @@
+{
+  "brand": "Mercedes-Benz",
+  "models": [
+    {
+      "model": "Mercedes EQ Formula E Team",
+      "type": "Trail",
+      "ebike": false,
+      "suspension": "rigid",
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 168,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    }
+  ]
+}

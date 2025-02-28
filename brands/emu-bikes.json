@@ -1,0 +1,19 @@
+{
+  "brand": "EMU BIKES",
+  "models": [
+    {
+      "model": "Hatchet Carbon GRX RX600 22S",
+      "type": "Road",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 168,
+          "rider_height_max": 178,
+          "measurement_unit": "cm"
+        }
+      ]
+    }
+  ]
+}

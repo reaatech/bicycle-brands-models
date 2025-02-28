@@ -1,0 +1,19 @@
+{
+  "brand": "Tunturi",
+  "models": [
+    {
+      "model": "Mon",
+      "type": "Triathlon",
+      "ebike": false,
+      "suspension": null,
+      "sizes": [
+        {
+          "size": null,
+          "rider_height_min": 147,
+          "rider_height_max": 163,
+          "measurement_unit": "cm"
+        }
+      ]
+    }
+  ]
+}
